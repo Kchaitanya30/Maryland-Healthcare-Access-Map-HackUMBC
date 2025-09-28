@@ -1,0 +1,1009 @@
+lon,lat,name,facility_type,osm_type,source_id
+-76.0646796,38.5409617,Eastern Shore Hospital Center,hospitals,node,358244539
+-75.4006244,38.1680903,Harrison House Nursing Home,hospitals,node,358246374
+-77.0594219,38.903445,Mule Hospital,hospitals,node,358955146
+-76.6634018,39.4587549,Mays Chapel Medical Care Center,hospitals,node,3019370509
+-78.7703042,39.6515743,Allegany Allergy & Asthma,hospitals,node,5159850811
+-77.2635037,39.179645,Germantown Emergency Center,hospitals,node,5443163302
+-76.3464983,39.5194209,Upper Chesapeake Hospital,hospitals,node,5973533451
+-77.0147802,38.9299501,Washington Hospital,hospitals,node,6377041085
+-76.6978453,39.2843381,Former Gundry/Glass Hospital (Grand Gundry Sanitarium),hospitals,node,6684786152
+-77.717549,39.665617,Western Maryland Hospital Center,hospitals,node,7212509205
+-76.591372,39.2955452,Bloomberg Children’s Center,hospitals,node,8813258110
+-76.4787141,39.351819,MedStar Franklin Square Medical Center,hospitals,node,9856193250
+-76.7672748,39.192561,Sheppard Pratt - Baltimore - Washington Campus,hospitals,node,10832075078
+-75.548624,38.3692413,Encompass Health Rehab Hospital Of Salisbury,hospitals,node,10832075153
+-76.0579912,38.5494536,A H C Behavioral Health And Wellness Services - Es,hospitals,node,10832109898
+-76.55768,38.9783273,Luminis Health J Kent Mcnew Family Medical Center,hospitals,node,10832110093
+-78.7360625,39.6558735,Thomas B Finan Center,hospitals,node,10832115778
+-75.6775223,39.4534342,Encompass Health Rehabilitation Hospital Of Middletown,hospitals,node,10836136519
+-75.408034,38.699082,Sun Behavioral Delaware,hospitals,node,10836137936
+-75.6293435,39.6397281,Meadowwood Behavioral Health System,hospitals,node,10836152451
+-75.5554925,39.1770844,Pam Rehab Hospital Of Dover,hospitals,node,10836155513
+-77.106443,38.8826562,Inova Cardiology - Ballston,hospitals,node,11378462242
+-77.1063581,38.8826594,Inova Neurosurgery - Ballston,hospitals,node,11378462243
+-77.1062848,38.8826599,Inova General Surgery - Arlington,hospitals,node,11378462244
+-77.1126619,39.0140233,Nurse's office entrance,hospitals,node,12409548489
+-77.2295346,38.8573056,Inova Schar Heart and Vascular,hospitals,node,12438912568
+-77.2289147,38.8574379,Inova Fairfax Surgery Center,hospitals,node,12438912569
+-77.227209,38.856508,Inova L.J. Murphy Children's Hospital,hospitals,node,12438912570
+-77.2270265,38.8570354,Inova Women's Hospital,hospitals,node,12438912571
+-77.2268724,38.8587249,Children's Emergency,hospitals,node,12438912572
+-77.226552,38.8576228,Adult Emergency,hospitals,node,12438912573
+-76.6894156,39.030442,Arbor Terrace Waugh Chapel,hospitals,node,13050102659
+-78.8660187,38.45022,Harrisonburg Health Clinic,clinics,node,356602949
+-77.3154206,38.8497291,Fairfax Surgical Center,clinics,node,356605994
+-76.946687,39.4136905,South Carroll Health & Wellness Pavilion,clinics,node,358247377
+-76.4456102,38.2719414,Naval Health Clinic Patuxent River,clinics,node,358250115
+-76.5159582,39.0556733,Broadneck Medical Center,clinics,node,358250609
+-76.6146825,39.328787,Curtis National Hand Center,clinics,node,358255682
+-77.133924,39.021811,Center for Back Injury Prevention and Rehabilitation,clinics,node,358256266
+-77.1339494,39.0219229,Center For Repetitive Motion Disorders,clinics,node,358256267
+-77.0779054,38.9439474,Psychiatric Institute of Washington,clinics,node,358959246
+-77.0519217,38.9053894,Betty Ford Comprehensive Center,clinics,node,358960212
+-77.0330112,38.9281816,Unity Health Care - Upper Cardoza,clinics,node,358961163
+-76.9947,38.8922,Capitol Hill Medical Clinic,clinics,node,358961167
+-77.0146378,38.9272503,Children's National Hospital - Childrens Health Center,clinics,node,358961176
+-77.0975863,38.945921,Spring Valley Regional Outpatient Center,clinics,node,358961181
+-77.0139,38.9273,Childrens National Hospital - Adolescent Health Center,clinics,node,358961183
+-77.0133,38.8959,Federal City Shelter Clinic,clinics,node,358961192
+-77.0353929,38.9284979,La Clinica del Pueblo,clinics,node,358961223
+-77.1667385,39.3649019,Mount Airy Health Services,clinics,node,608960258
+-77.0369212,38.928169,La Clinica del Pueblo,clinics,node,822361280
+-77.0594804,38.9366224,GW Immediate and Primary Care,clinics,node,1066025085
+-77.2985928,38.7873807,Walk-in Medical Care,clinics,node,1523207345
+-78.6753726,38.0703706,Sentara Crozet Family Medicine,clinics,node,1606941591
+-76.796403,39.187731,Pediatrics,clinics,node,2109535695
+-77.0514492,38.8062415,LasikPlus,clinics,node,2151519987
+-77.4341506,38.8294744,Inova Urgent Care – Centreville,clinics,node,2222644820
+-77.4657531,39.0613628,Premier Psychiatry Center,clinics,node,2302073156
+-75.6044503,39.2998328,Smyrna Health & Wellness Center,clinics,node,2335026638
+-77.4860293,38.7671589,Hylton Family Women's & Children's Center,clinics,node,2354997101
+-77.4881503,38.767528,Medical Building 1 - Health Center,clinics,node,2355003905
+-77.1509587,38.8668026,Inova Urgent Care,clinics,node,2636151240
+-78.9605742,39.0695206,Potomac Valley Family Medicine,clinics,node,2683115162
+-76.9406771,39.2107091,UNI Urgent Care,clinics,node,2776322082
+-76.6751605,39.2715457,Seton Imaging,clinics,node,2781900902
+-76.8343707,39.2766855,Ellicott City Dialysis Center,clinics,node,2912189203
+-76.5155134,39.0555845,Allergy & Asthma Associates,clinics,node,2958569577
+-76.7785931,39.4216702,ExpressCare,clinics,node,2976548164
+-77.0240419,38.9326138,Metro Lab Walk-in Clinic,clinics,node,2984529676
+-77.0235219,38.9293045,B and W Stat Laboratory,clinics,node,2987664440
+-77.021635,38.918833,,clinics,node,3004999288
+-77.0214231,38.918495,,clinics,node,3004999289
+-76.9491273,38.8946179,Egypt Health Center,clinics,node,3010470453
+-77.2309336,38.9243547,LasikPlus,clinics,node,3011789278
+-76.6053833,39.4327082,Passport Health Timonium Travel Clinic,clinics,node,3019371926
+-76.7365845,39.3906351,Chesapeake Urology,clinics,node,3025070384
+-76.5624204,39.3928741,Planned Parenthood,clinics,node,3025575963
+-76.5395448,39.3779429,Peace Healthcare,clinics,node,3025603854
+-76.5394994,39.3780032,Global Healthcare Systems,clinics,node,3025603866
+-76.4609235,39.316712,ExpressCare,clinics,node,3026452555
+-76.4786249,39.3075393,Capricorn Health,clinics,node,3026462344
+-76.5173959,39.3671448,ExpressCare+,clinics,node,3029994822
+-76.5420927,39.3720803,Express Care,clinics,node,3029994826
+-76.5058068,39.2671909,Dundalk Pediatric Associates,clinics,node,3031064626
+-77.2164883,39.1154257,MedStar Health: Urgent Care,clinics,node,3052598954
+-77.5043496,39.0085163,Leesburg Sterling Family Medicine,clinics,node,3054649333
+-78.4973291,38.0328565,UVA Children's Hospital Clinics,clinics,node,3058211402
+-78.4974082,38.0326566,UVA Outpatient Surgery Center,clinics,node,3058211403
+-76.5876333,39.124717,Righttime Medical Care,clinics,node,3076955812
+-75.5510254,38.0628358,Doctor's office,clinics,node,3367412827
+-76.5949394,39.3365312,VA Clinic,clinics,node,3432392133
+-76.6096322,39.3186152,Harwood Health Center,clinics,node,3432414714
+-76.8131667,39.2304929,American Radiology Services,clinics,node,3575553852
+-76.551554,38.9859575,Chesapeake Medical Imaging,clinics,node,3590982631
+-76.9837074,38.8631449,Unity Health Care - Anacostia,clinics,node,3688320236
+-76.9912431,38.8634404,Whitman-Walker Health Max Robinson Center,clinics,node,3688609915
+-76.6815171,39.0349204,AAMC Health Services - Waugh Chapel,clinics,node,3697582504
+-77.4131372,39.4264277,Frederick Gastroenterology Associates,clinics,node,3743565453
+-77.0825088,38.8921033,NovaSculpting,clinics,node,3773680178
+-76.55174,38.9859058,Annapolis Neurology Associates,clinics,node,3777496933
+-76.762437,39.283794,Ascension Saint Agnes,clinics,node,3836068158
+-77.3304645,38.5829342,NextCare,clinics,node,3841174968
+-76.5976642,38.561573,Patriot Urgent Care,clinics,node,3852136176
+-77.3351063,38.6435533,Dalewood Medical Clinic,clinics,node,3875609374
+-77.3503973,38.9781032,INOVA Urgent Care,clinics,node,3889466811
+-77.0263848,38.8986676,One Medical,clinics,node,3893773465
+-77.1524355,38.9212228,Old Dominion Urgent Care,clinics,node,3909881562
+-76.6036967,39.2869461,Kaiser Permanente,clinics,node,3940092620
+-78.4780285,38.0406245,Center for Prenatal and Perinatal Programs,clinics,node,3993304252
+-77.1046297,38.821718,Alexandria Health Clinic,clinics,node,4042126689
+-77.0835425,38.8735704,Arlington Health Clinic,clinics,node,4042126694
+-77.3409019,38.023284,Caroline County Health Department,clinics,node,4042194467
+-76.8629588,37.9323363,Essex County Health Department,clinics,node,4042802687
+-77.3162549,38.848901,Fairfax County Health Clinic,clinics,node,4042802688
+-77.8096459,38.7114705,Fauquier County Health Department,clinics,node,4042802689
+-78.1152534,38.2532941,Orange County Health Clinic,clinics,node,4042966673
+-78.469198,38.661806,Page County Health Clinic,clinics,node,4042966674
+-78.1597006,38.7145548,Rappahannock County Health Clinic,clinics,node,4042976117
+-76.7620743,37.9589096,Richmond County Health Department,clinics,node,4042976118
+-78.4984925,38.8873275,Shenandoah County Health Clinic,clinics,node,4042983341
+-77.5892611,38.2022346,Spotsylvania County Health Department,clinics,node,4042983344
+-78.2044739,38.9364541,Warren County Health Clinic,clinics,node,4043017592
+-78.8997155,38.0694046,Waynesboro Health Department,clinics,node,4043017594
+-76.7749085,38.071359,Westmoreland Health Clinic,clinics,node,4043017595
+-78.1634697,39.1880908,Winchester Health Clinic,clinics,node,4043017596
+-77.3606207,38.6808765,NextCare Urgent Care,clinics,node,4276284759
+-76.8107797,39.1703286,Kaiser Permanente Columbia Gateway Medical Center,clinics,node,4319611890
+-76.9534855,38.9695801,Prince George's Medical Center,clinics,node,4407146835
+-76.4916078,38.9887884,Naval Health Clinic Annapolis - North Severn Clinic,clinics,node,4416909644
+-77.4825555,38.7665501,,clinics,node,4497738270
+-76.9895429,38.8649954,"Health Services for Children with Special Needs, Inc",clinics,node,4640281775
+-76.9922031,38.8629533,Dr. Yoon Family Medicine,clinics,node,4640551466
+-78.8417563,38.4306327,MedExpress,clinics,node,4746413549
+-78.8407297,38.4336399,RMH Healthcare,clinics,node,4746413567
+-77.0329465,38.9311433,Children's National Columbia Heights,clinics,node,4770094537
+-76.6431105,39.1472472,Glen Burnie VA Outpatient Clinic,clinics,node,4783882027
+-77.0343101,38.9039139,Metro Immediate & Primary Care,clinics,node,4788354921
+-77.250801,39.117717,MedStar Health: Urgent Care,clinics,node,4820839375
+-77.1531622,38.8726294,AllCare Family Medicine & Urgent Care,clinics,node,4828428410
+-76.6670194,39.4213997,Patient First,clinics,node,4966314807
+-75.5998523,38.6591124,Seaford Endoscopy Center,clinics,node,5059327445
+-75.5574345,38.4581702,Ambient Care Express,clinics,node,5076685253
+-76.952031,38.9671945,MedStar Health,clinics,node,5095335746
+-76.7292358,39.0974444,Fort Meade VA Outpatient Clinic,clinics,node,5113859421
+-77.0118912,39.0199854,Righttime Medical Care,clinics,node,5136245285
+-77.0040053,38.8993329,Kaiser Permanente Capitol Hill Medical Center,clinics,node,5192606096
+-76.6155085,39.3175189,Maryland Healthcare Clinic,clinics,node,5240295164
+-76.8335605,39.2780604,Audiology Associates,clinics,node,5273559355
+-77.963279,39.4579343,Good Samaritan Free Clinic,clinics,node,5278908394
+-77.9576457,39.4798216,MedExpress Urgent Care,clinics,node,5294525366
+-77.6722878,39.6246801,Urgent Care,clinics,node,5320428975
+-77.5512629,38.7335797,Novant Health UVA Urgent Care & Occupational Medicine,clinics,node,5335473906
+-76.6121747,39.2994445,Divine Marcy Inc. Counseling & Life Coaching,clinics,node,5397237393
+-76.6121702,39.2994061,Mount Vernon Spine & Rehab,clinics,node,5397237397
+-78.1899941,38.9636143,Valley Health Urgent Care,clinics,node,5434439928
+-77.0432779,38.922513,MedStar Prompt Care,clinics,node,5438177376
+-77.6814296,39.6216485,Robinwood Professional Center,clinics,node,5476112010
+-76.7265314,39.2897749,"Antorian Health, LCC",clinics,node,5512365222
+-77.9874993,39.4623836,McCray Chiropractic & Health Restoration Clinic,clinics,node,5538299204
+-77.0431537,38.9234532,One Medical Group,clinics,node,5543231113
+-76.5614693,38.941957,AFC Urgent Care,clinics,node,5576332410
+-76.5657418,39.2859017,American Radiology,clinics,node,5581413489
+-77.9636715,39.4583326,Center Inc.,clinics,node,5590213548
+-77.4961129,38.2429306,Mary Washington Emergency & Outpatient Center - Lee's Hill,clinics,node,5590823178
+-77.3469043,39.3283525,Immediate Care Urbana,clinics,node,5630536839
+-77.023853,38.9317464,MARC,clinics,node,5925500793
+-76.3305376,39.5018528,The Endoscopy Center at Bel Air,clinics,node,5965069687
+-76.3240209,39.4963902,Harford Endoscopy Center,clinics,node,5967634351
+-76.3258497,39.5020507,Greenbrook TMS NeuroHealth Centers,clinics,node,5967636111
+-76.3172566,39.4340627,Empowering Minds Resource Center,clinics,node,5970707057
+-76.31361,39.4358692,Nova Pain Center,clinics,node,5970707208
+-76.6065076,39.3288181,Adullum Community Healthcare Center,clinics,node,5991929051
+-76.445785,39.3336385,ExpressCare,clinics,node,6014388304
+-76.4647604,39.3122803,Endoscopy Center of Essex,clinics,node,6019960817
+-76.4664624,39.3118769,Pediatrics & Adolescent Care,clinics,node,6019974356
+-76.4397557,39.3293801,Sunrise Pain Management Professionals LLC,clinics,node,6020731777
+-76.6219777,39.2877846,University of Family & Community Medicine,clinics,node,6047713933
+-76.6224292,39.2879681,University of Maryland Coordinated Care Center,clinics,node,6047714400
+-78.8543623,38.4273113,Harrisonburg Pediatrics,clinics,node,6096320324
+-76.8226826,39.2275991,Continuum Autism Spectrum Alliance Columbia MD,clinics,node,6125633191
+-76.4872257,39.3514761,MedStar Health Primary Care Endocrinology,clinics,node,6135213605
+-76.6211108,39.4310231,PM Pediatrics,clinics,node,6138439260
+-77.5248997,39.0900815,My Wellness Physicians,clinics,node,6139278007
+-77.1705805,38.8698389,Capital Area Pediatrics-Sleepy Hollow,clinics,node,6162225178
+-77.1704544,38.869864,Advantage Physical Therapy,clinics,node,6162225179
+-77.1174512,38.8479852,Xcel Urgent Care,clinics,node,6168666709
+-76.3324996,39.4965901,American Psychiatric Care,clinics,node,6193349120
+-77.2227687,38.9059036,Ximena Skin Care Clinic,clinics,node,6197821592
+-76.782501,39.2091934,Ouch! Urgent Care,clinics,node,6204770844
+-76.7821842,39.2090638,Columbia Surgical Institute,clinics,node,6204770850
+-76.7824951,39.2095547,Family Medical & Dental Wellness Center,clinics,node,6204770860
+-77.4711469,39.0598547,ExpressCare,clinics,node,6220282588
+-77.1192253,39.0554307,5.11,clinics,node,6255886373
+-77.119244,39.0555674,Men's Wearhouse,clinics,node,6255902249
+-75.9499306,39.6111063,ChristianaCare-GoHealth Urgent Care,clinics,node,6314383011
+-78.4711456,38.0823502,The Wave Clinic,clinics,node,6345782323
+-78.4709782,38.0822975,PT @ ACAC,clinics,node,6345782324
+-76.0867843,38.7839494,University of Maryland Urgent Care,clinics,node,6376336895
+-76.3930666,39.4923831,University of Maryland Urgent Care,clinics,node,6471379212
+-76.3059887,39.4698312,Abingdon Medical Center,clinics,node,6476920936
+-76.3326357,39.4971927,Bel Air Center for Addictions,clinics,node,6479097697
+-76.3328724,39.4971042,Wellspring Clinic,clinics,node,6479097703
+-76.3556246,39.538926,MD Immediate Care,clinics,node,6483163168
+-76.3734854,39.56096,University of Maryland Urgent Care,clinics,node,6493756279
+-76.3239792,39.4326865,Infinite Medical Express,clinics,node,6536154172
+-76.5999703,39.2689227,Passport Health Baltimore Travel Clinic,clinics,node,6610533656
+-75.8885429,39.6100725,Serenity Health,clinics,node,6611248627
+-78.1647237,39.1638479,Valley Health Urgent Care,clinics,node,6716719410
+-75.8236021,38.8747515,University of Maryland Urgent Care,clinics,node,6736737907
+-78.3390966,39.0045614,,clinics,node,6789369976
+-76.6298529,39.3366597,University of Maryland Urgent Care,clinics,node,6789533143
+-76.2478577,39.4804961,Worksite Medical,clinics,node,6812599533
+-76.186632,39.5196276,Serenity Health,clinics,node,6813379164
+-76.1858593,39.5237031,Prompt Occupational Health care,clinics,node,6815944448
+-76.1784651,39.4969933,University of Maryland Urgent Care,clinics,node,6816168812
+-76.408563,39.3537616,Surgcenter of White Marsh,clinics,node,6818435614
+-76.7362016,39.3888037,Vein Clinics of America,clinics,node,6979887433
+-77.2611122,38.8694225,Medical & Urgent Care,clinics,node,6986274478
+-77.5397942,39.1167248,Metromed Urgent Care,clinics,node,6996903519
+-77.0317035,38.9104565,Whitman-Walker Health,clinics,node,7039471051
+-77.4850421,39.0683735,PM Pediatrics Urgent Care,clinics,node,7049729126
+-76.660046,38.7200038,A+ Health Center,clinics,node,7101890131
+-77.2222053,38.8781592,Dominion Plastic Surgery,clinics,node,7143550380
+-77.0277249,38.9410988,MBI Taylor Street,clinics,node,7175455721
+-77.0766374,39.0281407,Fast Track Urgent Care,clinics,node,7189400644
+-75.9446851,39.6100916,,clinics,node,7221536403
+-76.7795157,39.4269864,Drip,clinics,node,7237674472
+-76.4520174,39.3691159,PriorityCare,clinics,node,7243123522
+-76.4590005,39.3754677,Patient First,clinics,node,7243478929
+-76.3531815,39.5246248,Children's Urgent Care,clinics,node,7248988658
+-75.5589357,38.460066,Nanticoke Immediate Care,clinics,node,7270770154
+-76.5837132,39.3124474,Turning Point Clinic,clinics,node,7281205838
+-76.539921,39.3775419,Providence Integrated Healthcare,clinics,node,7326984179
+-78.0397072,39.362251,Urgent Care,clinics,node,7350847517
+-77.4333214,38.830479,Inova Medical Group,clinics,node,7571843433
+-77.4345328,38.8287244,Centreville/Clifton Imaging Center,clinics,node,7573339660
+-77.4343377,38.8292298,Inova Physical Therapy Center,clinics,node,7573405162
+-77.4344509,38.8290749,Town Center Orthopaedics & Physical Therapy,clinics,node,7573405163
+-77.4339766,38.8294737,Family Medicine of Clifton/Centreville,clinics,node,7573405165
+-78.1335147,39.220914,Valley Health Urgent Care,clinics,node,7596841754
+-77.2313302,38.8650395,Horizon Spine & Pain Specialists,clinics,node,7598205006
+-77.2315512,38.8650632,Fairfax Convenient Care Walk-In Clinic,clinics,node,7598205008
+-78.8635956,38.4032344,Shenandoah Oral and Facial Surgery,clinics,node,7656785154
+-77.2955349,38.5989662,Sentara,clinics,node,7684143325
+-77.1401121,38.7526767,Medical Access-My Urgent Care & More,clinics,node,7729196738
+-77.1249168,38.8513197,Dr Sameera A Rentia Pediatrician,clinics,node,7978572817
+-78.8126423,38.3962076,Harrisonburg Dermatology,clinics,node,8057413603
+-76.3255343,39.5035679,MedStar PromptCare,clinics,node,8063589099
+-76.3252306,39.5028928,MedStar Georgetown Cancer Institute,clinics,node,8063589101
+-77.052201,39.0350225,Proyecto Salud Clinic,clinics,node,8069456262
+-77.0480176,38.8330142,Kaiser Permanente Alexandria Medical Center,clinics,node,8281309355
+-77.0416221,38.9085115,,clinics,node,8320394917
+-76.5902248,38.5514979,Birthright Of Prince Frederick,clinics,node,8322768062
+-76.5905258,38.5511153,Patuxent Endocrinology Associates,clinics,node,8322768068
+-77.0906409,38.8285071,MedStar Health Urgent Care,clinics,node,8426629600
+-76.6077051,39.364546,University of Maryland Urgent Care,clinics,node,8429203729
+-76.608626,39.364534,Maryland Vascular Specialists,clinics,node,8429773515
+-76.608628,39.3644844,Multi-specialty Health Care,clinics,node,8429773516
+-78.2002941,39.1194912,Northwestern Community Services Winchester Clinic,clinics,node,8594361600
+-76.5956876,39.2970031,The Johns Hopkins Outpatient Center,clinics,node,8685187964
+-77.268059,39.1751107,Germantown Pediatrician,clinics,node,8685252740
+-77.1093854,38.8295858,Inova-GoHealth Urgent Care,clinics,node,8807267379
+-76.8287961,38.9062842,Plumbers Local 5 Health & Wellness Center,clinics,node,8870797490
+-76.6124465,39.2934397,Business and Employee Health Services,clinics,node,8902257318
+-76.3086079,39.4450144,Global Healthcare Systems,clinics,node,8952747031
+-75.5987988,39.6722339,MedExpress Walk-In Care,clinics,node,8973170690
+-77.1735676,38.8810974,Immediate Care by PMA Health,clinics,node,8977697915
+-76.6014934,39.2727535,MedStar Health,clinics,node,8996962958
+-76.6016034,39.2730237,MedStar PromptCare,clinics,node,8996962959
+-79.3505096,39.5513056,UPMC Urgent Care,clinics,node,8998376573
+-77.4455605,39.4156366,Restoration Family Chiropractice,clinics,node,9044369661
+-76.9951531,38.9208909,GW immediate & primary care,clinics,node,9045763168
+-76.494361,39.3864191,The Recovery Center of Maryland,clinics,node,9072433528
+-76.7985818,39.2084002,University of Maryland Urgent Care,clinics,node,9081291838
+-76.6253761,39.2869538,University of Maryland Urgent Care,clinics,node,9081291841
+-76.5591465,39.517413,University of Maryland Urgent Care,clinics,node,9081291857
+-77.3733299,39.0146893,Patient First,clinics,node,9094956384
+-76.639988,38.6908665,Dunkirk Family Practice,clinics,node,9117057620
+-76.640033,38.6908488,Bayside Physical Therapy,clinics,node,9118768246
+-76.640011,38.6908583,Annapolis Colon and Rectal Surgeons,clinics,node,9118768247
+-75.7248755,39.6615516,ChristianaCare-GoHealth Urgent Care,clinics,node,9163807265
+-76.6168761,39.3256547,Student Health & Wellness Center,clinics,node,9173517742
+-76.6226797,39.3097074,MICA Wellness Center,clinics,node,9196206765
+-77.0022725,39.0329311,Capitol Women's Care,clinics,node,9196569340
+-76.6149508,39.3134168,GreenLeaf Medical Cannabis Evaluation & Resource Center,clinics,node,9216222667
+-76.6175656,39.3213454,Renalis Kidney Care,clinics,node,9228569027
+-76.6350003,39.3317443,Adonai (Alpha) Healthcare Solutions,clinics,node,9233928067
+-76.9781045,39.564696,U.N.I. Urgent Care,clinics,node,9253954561
+-78.8345114,39.6376867,MedExpress,clinics,node,9261933922
+-76.933564,39.1129724,Quality First Urgent Care,clinics,node,9280839147
+-77.1200465,38.8983475,Inova Urgent Care - North Arlington,clinics,node,9284749203
+-79.0617813,38.1326072,Augusta Valley Animal Hospital,clinics,node,9341257210
+-79.0658298,38.1385533,Augusta Health Outpatient Center,clinics,node,9341259625
+-76.6767704,39.3480927,Park West Health System,clinics,node,9356604828
+-77.3283668,38.5616588,Inova Juniper Program,clinics,node,9391002953
+-79.4433818,37.9676225,PMI First Aid,clinics,node,9419582355
+-76.2912002,39.4417471,Stat Weight Loss,clinics,node,9501854405
+-76.6599679,39.3511376,ExpressCare at Sinai Hospital,clinics,node,9503701000
+-77.0341399,38.9288744,PM Pediatric Care Columbia Heights,clinics,node,9522600687
+-76.6151231,39.3284457,Union Memorial Hospital Counseling Center,clinics,node,9530918894
+-76.6145525,39.2909784,AHF Healthcare Center - Baltimore,clinics,node,9545374732
+-77.0836097,38.8086199,AllCare Family Medicine and Urgent Care,clinics,node,9576575336
+-77.5988279,38.8024684,Inova Primary Care - Gainseville,clinics,node,9594413625
+-77.1156434,38.8824506,AllCare Family Medicine & Urgent Care,clinics,node,9611398122
+-76.8801583,38.9902117,The Retina Group of Washington,clinics,node,9631286078
+-76.5228071,38.3039171,MedStar Health Urgent Care,clinics,node,9634414702
+-77.0871649,38.9627929,The Retina Group of Washington,clinics,node,9636783559
+-77.0285461,38.9978862,The Retina Group of Washington,clinics,node,9642580247
+-77.1608603,38.7690874,The Retina Group of Washington,clinics,node,9644875364
+-77.4122044,39.0325112,The Retina Group of Washington,clinics,node,9645400632
+-76.5089299,39.2931287,GBMC,clinics,node,9738823853
+-76.6008135,39.2925438,Eastern Sexual Health Clinic,clinics,node,9756371002
+-76.6231104,39.4326128,Concentra Urgent Care,clinics,node,9759536924
+-76.3173291,39.4340526,Maryland Healthcare Clinic,clinics,node,9815879857
+-76.6540206,39.3174438,Total Healthcare,clinics,node,9845552434
+-76.5909141,39.3013501,Johns Hopkins University Health Services,clinics,node,9868393578
+-76.6093336,39.3205297,Caring Hands,clinics,node,9917302217
+-76.6118698,39.3182367,Truecare BHS,clinics,node,9917302232
+-76.9497691,39.4080654,Express Care,clinics,node,9952552791
+-76.628949,39.331384,Metta Integrative Wellness Center,clinics,node,10137860303
+-76.609551,39.3639796,Loyola Clinical Center,clinics,node,10141135375
+-76.6087398,39.3723457,MedStar Health Urgent Care,clinics,node,10148451458
+-76.5200887,38.9679514,Evolve Direct Primary Care & Urgent Care,clinics,node,10181229142
+-76.8509391,39.0976169,PM Pediatrics,clinics,node,10249843118
+-77.8178139,39.3018656,WVU Urgent Care: Charles Town,clinics,node,10250014769
+-76.9959683,38.8864187,MedStar Health Urgent Care,clinics,node,10540098312
+-76.629417,39.4557266,GBMC Health Partners,clinics,node,10563727753
+-77.4328196,38.4265967,Embrey Mill Primary & Urgent Care,clinics,node,10566010812
+-77.0826697,38.8914086,AllCare,clinics,node,10571991081
+-77.0560898,38.8605483,Xpress Urgent Care,clinics,node,10605350543
+-76.6570448,39.3802539,Acorn Health,clinics,node,10647083880
+-76.6272303,39.4398554,Advanced Radiology,clinics,node,10665973527
+-77.0324967,38.9251962,Medics USA Primary & Urgent Care,clinics,node,10686656289
+-77.0511864,38.8440257,Nova Patient Care,clinics,node,10694003297
+-76.7248528,39.3768821,Press Pediatrics Urgent Care,clinics,node,10697841900
+-76.5800664,39.2807718,AllCare,clinics,node,10705676700
+-76.628902,39.4322232,Outpatient Mental Health Center,clinics,node,10719534830
+-77.4587893,38.4694236,Optimum Care,clinics,node,10767474455
+-77.695622,39.6335784,Plastic Surgery Services: Dr. Henry F. Garazo,clinics,node,10772530882
+-76.5996434,39.2698645,,clinics,node,10797724431
+-77.3764952,38.862053,Fairfax Health Center,clinics,node,10830728484
+-77.5180983,38.7848582,Night Watch Urgent Care,clinics,node,10846010136
+-76.8556569,39.2141981,NuVasive Clinical Services,clinics,node,10857153511
+-77.1065227,38.8826523,Inova General Internal Medicine Group - Ballston,clinics,node,10891447421
+-77.0633384,38.8623672,Nova Urgent Care,clinics,node,10937810310
+-76.6083499,39.3779802,Pregnancy Center North,clinics,node,10940977770
+-77.2995389,38.85056,Joseph Willard Health Center,clinics,node,10947618662
+-78.5483894,38.0512887,University of Virginia Northridge Medical Office Building,clinics,node,10949903753
+-78.5497054,38.0515074,University of Virginia Northridge Medical Office Building,clinics,node,10949903754
+-76.7012057,38.8108729,Bay Community Health,clinics,node,10966065626
+-78.4155821,38.0190687,Humagen Fertility Diagnostics,clinics,node,10970054478
+-77.3035133,38.8606951,Ideal Image,clinics,node,10990472379
+-77.107843,38.8413394,PACS Urgent Care,clinics,node,10995564591
+-76.3072695,39.4358972,Transformations Center for Weight Loss,clinics,node,11062573823
+-76.3071735,39.4359158,Harmony Health Services,clinics,node,11062573824
+-76.5905616,38.5514039,Calvert Family Medicine,clinics,node,11074285824
+-76.5905456,38.5514189,MedStar Health,clinics,node,11074285825
+-77.5254935,38.7590937,UVA Health Internal Medicine & Primary Care,clinics,node,11076244683
+-76.9084592,38.8067376,Kaiser Permanente Camp Springs,clinics,node,11112968893
+-77.2651953,38.6755412,Family Practice Medical Clinic,clinics,node,11132441517
+-77.2641715,38.6757821,Prince William Medical Clinic,clinics,node,11132441557
+-76.5402632,38.815641,,clinics,node,11163525028
+-77.1896623,38.8299013,Patient First,clinics,node,11186225057
+-77.3332449,38.5846565,Sentara,clinics,node,11198507126
+-76.5083358,38.2986781,MedExpress Urgent Care,clinics,node,11206549342
+-77.3579402,38.957988,One Medical,clinics,node,11231124980
+-77.0382455,38.930423,La Clínica Del Pueblo,clinics,node,11265325022
+-77.2016041,38.832376,AEHS Urgent Care,clinics,node,11282521335
+-76.6286812,39.4476848,EZMed,clinics,node,11341374791
+-75.5074109,39.6690447,Optum Urgent Care,clinics,node,11357004903
+-79.2287777,37.9268837,,clinics,node,11379560447
+-78.1772096,39.7133499,Valley Health,clinics,node,11379810800
+-76.8342376,39.4733908,,clinics,node,11435860470
+-77.8072551,38.5332296,Amore Care,clinics,node,11512677590
+-76.48258,39.3355067,,clinics,node,11562724691
+-77.1893074,39.1163798,Mission Autism Clinics,clinics,node,11586241676
+-77.1204449,39.0566659,Pediatric Urgent Care,clinics,node,11660173183
+-76.5968892,38.5548262,Patriot Urgent Care,clinics,node,11742930765
+-77.2436508,38.9299146,AllCare,clinics,node,11787278794
+-77.07628,38.8950494,One Medical,clinics,node,11819217075
+-77.9864667,38.4804352,Culpeper Medical Center,clinics,node,11823692629
+-76.6205631,39.1714515,Passport Health Glen Burnie Travel Clinic,clinics,node,11829404487
+-76.472459,39.3722001,Passport Health White Marsh Travel Clinic,clinics,node,11845476557
+-76.5988342,39.1385721,Mercy Personal Physicians at Glen Burnie,clinics,node,11845841248
+-78.4351385,38.0213492,UVA Breast Care Center,clinics,node,11869925323
+-77.3172586,38.6510516,One Care Medical,clinics,node,11879432420
+-76.613825,39.1964048,PM Pediatrics,clinics,node,11880043319
+-76.6230053,39.1637781,MHC HealthCare,clinics,node,11882209279
+-78.4404294,38.2963402,Greene Care Clinic,clinics,node,11907411622
+-76.8600288,37.927518,Ledwith-Lewis Free Clinic,clinics,node,11907456886
+-78.5158303,38.8679214,Shenandoah Community Health Clinic,clinics,node,11907493041
+-75.1399218,38.7230243,Beebe Healthcare Walk-In Care,clinics,node,11981483103
+-76.6679226,39.1795456,First Call Medical Center,clinics,node,11987870156
+-78.2017144,39.0832246,Valley Health Urgent Care Express,clinics,node,11989235245
+-76.9185829,39.0280368,Concentra Urgent Care,clinics,node,12040674155
+-76.2570488,39.4896654,ExpressCare,clinics,node,12047691516
+-77.5217457,38.9245419,"Community Health Clinic - Richlands ProAesthetics, MedSpa, and Cosmetology",clinics,node,12092141978
+-76.75694,37.9610643,Anchor Primary Care,clinics,node,12144856203
+-77.2380285,39.1793801,MedStar Health: Urgent Care,clinics,node,12162628418
+-76.6400688,39.1484032,Endocentre,clinics,node,12164172371
+-76.639742,39.1486993,Plastic Surgery Center,clinics,node,12164172373
+-77.065037,38.9463054,Allcare,clinics,node,12236912907
+-76.9860085,39.575703,Children’s Urgent Care,clinics,node,12270023203
+-77.0862902,38.9610262,Well by Kaiser Permanente,clinics,node,12270095911
+-76.822466,39.3815513,,clinics,node,12288936198
+-77.0948335,38.9808528,One Medical,clinics,node,12342520796
+-75.5934864,38.6468725,Ambient Medical Care,clinics,node,12392745236
+-76.663919,39.3367506,Park West,clinics,node,12401190487
+-77.0812049,38.9524359,Restorative Health,clinics,node,12405258483
+-75.8329959,39.6086975,,clinics,node,12457198943
+-78.1330049,39.1857425,MedExpress,clinics,node,12517279186
+-76.8364222,39.1167953,North Laurel Health Center,clinics,node,12547088114
+-77.08765,38.8086557,Passport Health Alexandria Travel Clinic,clinics,node,12554862248
+-76.9731755,39.0200837,Passport Health Silver Spring Travel Clinic,clinics,node,12554870067
+-76.7170318,39.1010785,Total Healthcare,clinics,node,12555080569
+-77.1252612,39.0264751,CARE - Clinics for Abortion & Reproductive Excellence,clinics,node,12555906985
+-77.1252143,39.0264351,Passport Health Bethesda Travel Clinic,clinics,node,12557745929
+-76.7572334,38.9730572,Passport Health Bowie Travel Clinic,clinics,node,12557810966
+-77.4185879,39.4136461,Passport Health Frederick Travel Clinic,clinics,node,12559486707
+-77.1461439,39.0831656,Passport Health Rockville Travel Clinic,clinics,node,12559487162
+-77.0429346,38.9050189,Passport Health Washington DC Travel Clinic,clinics,node,12563240165
+-77.5189022,39.018645,Passport Health Ashburn Travel Clinic,clinics,node,12563270801
+-78.473722,38.0916401,Passport Health Charlottesville Travel Clinic,clinics,node,12576853568
+-77.2141928,38.9078028,Passport Health Falls Church Travel Clinic,clinics,node,12576869573
+-77.4943381,38.2973604,Passport Health Fredericksburg Travel Clinic,clinics,node,12576874819
+-77.3304545,38.9482229,Passport Health Reston Travel Clinic,clinics,node,12576881131
+-77.6018005,38.8028501,Passport Health Gainesville Travel Clinic,clinics,node,12576887409
+-78.1726627,39.1685514,Passport Health Winchester Travel Clinic,clinics,node,12576918737
+-77.3957052,39.447153,Med Star Health Urgent Care,clinics,node,12608708944
+-76.9456452,39.0822158,Briggs Chaney Walk-In Clinic,clinics,node,12703618291
+-77.3063441,39.3883273,Frederick Primary Care Associates,clinics,node,12720807109
+-76.4599442,39.3546593,Hygea Healthcare,clinics,node,12737847191
+-77.9159792,39.5458773,,clinics,node,12752869905
+-76.8860559,39.4920703,Magass Family Medicine & Urgent Care,clinics,node,12810416796
+-77.3141185,38.8253641,The Oasis Wellness lounge PLLC,clinics,node,12822646628
+-76.5154295,39.042134,Unalome House,clinics,node,12836614879
+-76.8945987,39.1587909,FirstCall Urgent Care,clinics,node,12838923584
+-75.6512047,39.671285,,clinics,node,12863313853
+-76.663882,39.5901398,Robert Gattuso MD,clinics,node,12865701692
+-76.6142919,39.2210959,,clinics,node,12876021879
+-77.267587,39.1809381,PM Pediatric Urgent Care,clinics,node,12945483607
+-75.5302693,37.9653405,Atlantic Community Health Center,clinics,node,13030461598
+-77.2614747,38.9028986,NOVA Pulmonary Critical Care and Sleep Associates- Vienna,clinics,node,13030824901
+-77.0870785,38.9628252,Medstar Health Urgent Care,clinics,node,13074917324
+-78.9644266,39.0759242,EZCare Walk-In Medical Center,clinics,node,13084426807
+-77.177768,39.121661,AllCare,clinics,node,13100590458
+-75.6109173,39.7181419,Passport Health Newport Travel Clinic,clinics,node,13131952953
+-77.1782256,38.8869963,Patient First,clinics,node,13132057335
+-76.8792139,39.2167093,Passport Health Columbia Travel Clinic,clinics,node,13134520824
+-76.5493922,38.9784435,Passport Health Annapolis Travel Clinic,clinics,node,13134536101
+-77.2759974,38.8178514,Walgreens,pharmacies,node,439661403
+-75.2333531,39.4263899,Rite Aid,pharmacies,node,440122880
+-77.0947081,38.9890498,CVS Pharmacy,pharmacies,node,452652527
+-77.0320927,38.99234,CVS Pharmacy,pharmacies,node,460211090
+-77.0419964,39.0107695,CVS Pharmacy,pharmacies,node,461544622
+-77.0444,38.9094458,CVS Pharmacy,pharmacies,node,462011950
+-77.0853067,38.8910272,CVS Pharmacy,pharmacies,node,463052303
+-76.6673496,39.5909322,Mt Carmel Pharmacy,pharmacies,node,472516514
+-76.6699338,39.5919669,Hereford Pharmacy,pharmacies,node,472516609
+-77.0317177,38.9189228,CVS Pharmacy,pharmacies,node,488370905
+-77.098564,38.9784244,CVS Pharmacy,pharmacies,node,498679936
+-77.0277031,38.9694386,CVS Pharmacy,pharmacies,node,502878561
+-78.1931788,38.9635837,CVS Pharmacy,pharmacies,node,512574035
+-77.2588142,38.9049655,CVS Pharmacy,pharmacies,node,534022924
+-77.1237576,39.0239641,CVS Pharmacy,pharmacies,node,551089735
+-77.0795886,38.9494017,CVS Pharmacy,pharmacies,node,567267005
+-77.0576678,38.9054002,CVS Pharmacy,pharmacies,node,568227557
+-77.0634751,38.9086653,CVS Pharmacy,pharmacies,node,568227558
+-77.0683927,39.1527769,Walgreens,pharmacies,node,571338016
+-77.0464291,38.900342,CVS Pharmacy,pharmacies,node,577435479
+-77.077737,39.0818228,Rite Aid,pharmacies,node,582788382
+-77.0759904,38.9647216,CVS Pharmacy,pharmacies,node,602271370
+-76.5630625,37.9666378,CVS Pharmacy,pharmacies,node,607721174
+-77.7202358,39.6866188,CVS Pharmacy,pharmacies,node,616849169
+-77.125445,39.0643259,CVS Pharmacy,pharmacies,node,633636038
+-76.5972597,38.5597579,Walgreens,pharmacies,node,651064254
+-77.3973544,38.9672227,CVS Pharmacy,pharmacies,node,655227851
+-76.6913674,39.3744529,Rite Aid,pharmacies,node,663061471
+-77.2437118,38.8878146,CVS Pharmacy,pharmacies,node,674490413
+-77.029397,38.8956266,CVS Pharmacy,pharmacies,node,681806041
+-77.0446848,38.9022888,CVS Pharmacy,pharmacies,node,690828489
+-77.0437113,38.9005424,CVS Pharmacy,pharmacies,node,690868539
+-77.0457153,38.914909,Walgreens,pharmacies,node,693960686
+-77.0717177,38.9198356,CVS Pharmacy,pharmacies,node,701624190
+-77.0261698,38.9168527,CVS Pharmacy,pharmacies,node,704978276
+-77.0485113,38.90545,Walgreens,pharmacies,node,709004075
+-77.0382878,38.9098041,CVS Pharmacy,pharmacies,node,719149447
+-77.0955435,38.9167649,CVS Pharmacy,pharmacies,node,723375262
+-77.03167,38.898915,CVS Pharmacy,pharmacies,node,734341244
+-77.0322853,38.9044611,CVS Pharmacy,pharmacies,node,734469773
+-76.9593032,38.8695614,CVS Pharmacy,pharmacies,node,737728202
+-77.049734,38.904798,CVS Pharmacy,pharmacies,node,741746890
+-76.9752386,39.0209854,CVS Pharmacy,pharmacies,node,761374179
+-77.0002516,38.9003538,Dynamic Health and Wellness,pharmacies,node,772339349
+-76.9919253,38.8999962,Super Pharmacy & Medical Equipment,pharmacies,node,775886252
+-77.0957707,38.9459728,CVS Pharmacy,pharmacies,node,808007344
+-77.0791903,39.0790369,CVS Pharmacy,pharmacies,node,818381062
+-77.0673575,39.1547097,Tru Health Pharmacy,pharmacies,node,818388996
+-77.4057128,38.9985063,CVS Pharmacy,pharmacies,node,822175041
+-77.032962,38.93076,Columbia Heights Pharmacy,pharmacies,node,826541093
+-77.0546034,38.820614,CVS Pharmacy,pharmacies,node,875529366
+-76.2471182,39.4790783,Walgreens,pharmacies,node,883488764
+-77.2638544,38.7518097,Giant Pharmacy,pharmacies,node,929766278
+-76.4959324,39.3340189,Walgreens,pharmacies,node,966295440
+-77.0038744,38.8767087,CVS Pharmacy,pharmacies,node,990479928
+-75.2342318,39.4275706,Walgreens,pharmacies,node,1023985709
+-76.4797453,39.0392344,Walgreens,pharmacies,node,1026911661
+-75.3415619,39.6450926,Acme Pharmacy,pharmacies,node,1049067958
+-77.1561741,38.9002108,CVS Pharmacy,pharmacies,node,1222773369
+-77.1126704,38.8125881,,pharmacies,node,1223542861
+-76.4460204,39.3092937,Rite Aid,pharmacies,node,1273346305
+-76.892108,39.1606521,Global Health Pharmacy,pharmacies,node,1351751159
+-77.0498313,39.0609441,CVS Pharmacy,pharmacies,node,1365093668
+-77.2664913,38.8998238,Rexall Drug Center,pharmacies,node,1385333398
+-77.2611549,38.8705558,CVS Pharmacy,pharmacies,node,1432609912
+-77.074032,39.033032,Kensington Pharmacy,pharmacies,node,1436471329
+-77.073454,39.033532,CVS Pharmacy,pharmacies,node,1436477420
+-76.9884965,38.9874839,"Community Clinic, Inc.",pharmacies,node,1514343306
+-77.2264574,38.8668292,CVS Pharmacy,pharmacies,node,1523327458
+-77.5641554,39.1075648,The Compounding Center,pharmacies,node,1545234253
+-77.1574709,39.041185,CVS Pharmacy,pharmacies,node,1570365220
+-76.6023442,39.404415,Health Mart,pharmacies,node,1579703094
+-77.1401083,38.8739862,NoVA Pharmacy,pharmacies,node,1582009258
+-75.6649991,39.6333741,Rite Aid,pharmacies,node,1582832967
+-76.6985812,39.2661329,Giant,pharmacies,node,1595567214
+-77.1661324,39.1553972,Giant Pharmacy,pharmacies,node,1595591459
+-77.0246153,38.9963162,CVS Pharmacy,pharmacies,node,1603830741
+-76.8647958,39.1693793,CVS Pharmacy,pharmacies,node,1626805384
+-76.9964341,38.8844608,CVS Pharmacy,pharmacies,node,1681865572
+-77.1438131,39.1449947,CVS Pharmacy,pharmacies,node,1683893786
+-77.3182189,39.7039261,,pharmacies,node,1684782534
+-76.886271,39.211731,Ultra Care Pharmacy,pharmacies,node,1701735500
+-76.6141958,39.290302,Walgreens,pharmacies,node,1703399743
+-77.0453632,39.0249724,,pharmacies,node,1736771163
+-77.0244781,38.9355894,CVS Pharmacy,pharmacies,node,1784870120
+-76.9941157,38.9217166,CVS Pharmacy,pharmacies,node,1785569929
+-76.7284945,39.2896892,Rite Aid,pharmacies,node,1800507918
+-77.125748,38.8305981,CVS Pharmacy,pharmacies,node,1837899950
+-77.6936471,39.613795,CVS Pharmacy,pharmacies,node,1994751454
+-77.0148946,38.7837311,CVS Pharmacy,pharmacies,node,1998093364
+-75.5937214,39.280888,Walgreens,pharmacies,node,2012657238
+-77.0559995,38.7409942,Walgreens,pharmacies,node,2026413369
+-76.5443981,38.795655,Friendly Pharmacy,pharmacies,node,2078208387
+-75.4864648,39.0823167,Walgreens,pharmacies,node,2091687020
+-76.6658184,39.2521344,Wye Oak Pharmacy,pharmacies,node,2100784628
+-77.0805977,38.7716194,Walgreens,pharmacies,node,2104651708
+-76.6984538,39.3463665,Rite Aid,pharmacies,node,2114491486
+-77.2888311,38.6311914,Wegmans Pharmacy,pharmacies,node,2129586615
+-75.3774213,38.1872737,Snow Hill Pharmacy,pharmacies,node,2142601684
+-77.0463979,38.8051745,Walgreens,pharmacies,node,2152912573
+-76.5218738,39.3954794,CVS Pharmacy,pharmacies,node,2163440749
+-77.4492593,38.8540114,Giant Pharmacy,pharmacies,node,2203653509
+-78.1659355,39.1627875,Martin's Pharmacy,pharmacies,node,2228107275
+-78.1334966,39.1876165,Martin's Pharmacy,pharmacies,node,2230697602
+-78.1716492,39.1558874,Walmart Pharmacy,pharmacies,node,2244172931
+-77.7898543,38.6968595,Walmart Pharmacy,pharmacies,node,2251834761
+-76.7702079,38.4653522,New Market Pharmacy,pharmacies,node,2262667843
+-77.1111182,39.09487,CVS Pharmacy,pharmacies,node,2266955732
+-77.1801347,38.9327944,CVS Pharmacy,pharmacies,node,2296469828
+-77.4706748,39.0605662,Harris Teeter,pharmacies,node,2311960040
+-77.4379472,38.8361501,Giant Pharmacy,pharmacies,node,2313258046
+-77.4902487,38.7702973,,pharmacies,node,2318884698
+-76.9755203,38.9296234,Douglas Discount,pharmacies,node,2326243629
+-75.6094522,39.3046913,Rite Aid,pharmacies,node,2335040147
+-76.546289,38.7921893,Deale Pharmacy,pharmacies,node,2337744802
+-77.3731207,39.0134121,Giant Pharmacy,pharmacies,node,2342297988
+-76.8240822,39.3827693,Viopeg Pharmacy,pharmacies,node,2352975132
+-77.3302581,38.9384045,CVS Pharmacy,pharmacies,node,2354758608
+-77.9828551,39.1507116,Reeds Pharmacy,pharmacies,node,2363286792
+-76.946348,39.401003,Rite Aid,pharmacies,node,2365739983
+-76.9184836,38.9577126,CVS Pharmacy,pharmacies,node,2367805607
+-76.9472629,38.841565,CVS Pharmacy,pharmacies,node,2390754979
+-77.0823767,38.7499851,Walgreens,pharmacies,node,2406620451
+-76.8629948,39.0823273,Lorven Pharmacy,pharmacies,node,2426642351
+-77.2873397,38.9962988,CVS Pharmacy,pharmacies,node,2433173604
+-76.938323,38.979953,CVS Pharmacy,pharmacies,node,2467269136
+-76.9678652,38.9512911,CVS Pharmacy,pharmacies,node,2467275679
+-76.9183423,39.0281658,Walgreens,pharmacies,node,2482553167
+-78.8882101,38.0655426,Kroger Pharmacy,pharmacies,node,2483617837
+-76.8832515,38.6146478,CVS Pharmacy,pharmacies,node,2487535618
+-76.6283041,39.307652,Walgreens,pharmacies,node,2493961843
+-76.6764773,39.2718131,Voshell's,pharmacies,node,2497397541
+-77.0412061,38.9238963,CVS Pharmacy,pharmacies,node,2509922257
+-76.6004663,39.2841007,CVS Pharmacy,pharmacies,node,2550101892
+-77.18785,38.8941213,CVS Pharmacy,pharmacies,node,2622784871
+-77.0629023,38.9436151,Pill Plus Pharmacy,pharmacies,node,2624854895
+-78.5001437,38.0345502,CVS Pharmacy,pharmacies,node,2633347589
+-78.5229038,38.8689774,CVS Pharmacy,pharmacies,node,2653004353
+-76.6261396,39.44114,Lyko's Pharmacy,pharmacies,node,2661875264
+-76.6624614,38.7187706,Safeway,pharmacies,node,2663518448
+-76.6229155,39.4289031,Lutherville Pharmacy,pharmacies,node,2682784159
+-78.9647352,39.0750585,CVS Pharmacy,pharmacies,node,2683115036
+-76.9897506,39.0408717,Walgreens,pharmacies,node,2688189160
+-77.4110543,38.9495487,CVS Pharmacy,pharmacies,node,2717366703
+-78.4793867,38.0299982,Timberlake's Drug Store,pharmacies,node,2727041273
+-77.3291346,38.5607623,Walgreens,pharmacies,node,2744538788
+-77.1494949,38.2380077,CVS Pharmacy,pharmacies,node,2804816957
+-76.5345322,39.3831707,Cornerstone Pharmacy,pharmacies,node,2861252765
+-77.1221455,38.8984521,CVS Pharmacy,pharmacies,node,2922206003
+-77.5207056,39.0426643,Walgreens,pharmacies,node,2924995692
+-76.584465,39.2858383,Patterson Park Pharmacy & Compounding,pharmacies,node,2964277030
+-76.6403645,39.3450675,CVS Pharmacy,pharmacies,node,2991646695
+-76.6650938,39.4581421,Walgreens,pharmacies,node,3019370510
+-76.5583503,39.5155524,Walgreens,pharmacies,node,3021498296
+-76.8304881,39.468781,NatureCare Pharmacy,pharmacies,node,3022237515
+-76.6445727,39.3979166,Ruxton Pharmacy,pharmacies,node,3025602885
+-76.5394692,39.3780415,Parkville Pharmacy,pharmacies,node,3025603867
+-76.4617659,39.316969,Rite Aid,pharmacies,node,3026452526
+-76.4403526,39.3273753,Independent Drug,pharmacies,node,3026457615
+-76.475789,39.3081187,,pharmacies,node,3026463996
+-76.519448,39.3667688,Northern Pharmacy at Overlea,pharmacies,node,3029994756
+-76.5421651,39.3719183,Walgreens,pharmacies,node,3029994789
+-76.5414112,39.3750913,Faith Pharmacy,pharmacies,node,3029995338
+-76.5227897,39.2580341,Rite Aid,pharmacies,node,3031068330
+-76.4895569,39.279027,Drug City Pharmacy,pharmacies,node,3031069420
+-76.5063403,39.2883161,Lifeway Pharmacy,pharmacies,node,3031076627
+-76.508197,39.2718862,MingoCare Pharmacy,pharmacies,node,3031078385
+-76.7170694,39.2760051,Catonsville Pharmacy,pharmacies,node,3032484394
+-76.7605657,39.2840871,NatureCare Pharmacy,pharmacies,node,3032484697
+-78.4910756,38.0596035,Kroger Pharmacy,pharmacies,node,3086742711
+-77.9703766,38.4838274,Walgreens,pharmacies,node,3106358006
+-77.411217,39.6219857,MedOne,pharmacies,node,3159272462
+-75.5613074,38.0750735,City Discount Pharmacy,pharmacies,node,3159585488
+-75.2125078,38.334768,Rite Aid,pharmacies,node,3170032538
+-78.8250716,38.269717,Wellness Concepts,pharmacies,node,3194778285
+-77.3185393,38.6829087,One Hanson Pharmacy,pharmacies,node,3223456848
+-76.4604528,39.3550462,CVS Pharmacy,pharmacies,node,3263199685
+-77.0711269,38.9808183,Brookville Pharmacy,pharmacies,node,3344443106
+-77.4140978,38.8341527,Giant Pharmacy,pharmacies,node,3346496067
+-76.9864851,38.9586319,CVS Pharmacy,pharmacies,node,3355394990
+-77.18977,38.7793192,CVS Pharmacy,pharmacies,node,3381653668
+-76.6335113,39.3309763,MimiKay Pharmacy,pharmacies,node,3432416303
+-77.1383883,38.8547336,C-More Drug Store,pharmacies,node,3508901449
+-78.9115819,39.6493412,PharmaCare,pharmacies,node,3544712964
+-77.3615547,38.958062,CVS Pharmacy,pharmacies,node,3559946649
+-77.2509924,39.2298182,,pharmacies,node,3569597360
+-77.1764429,38.9359593,McLean Pharmacy,pharmacies,node,3584164925
+-77.1800078,38.9344249,Medicine Chest,pharmacies,node,3584164972
+-76.5956217,39.3586273,Rite Aid,pharmacies,node,3648071663
+-75.1306427,38.5500392,,pharmacies,node,3658977272
+-77.0731612,38.9345096,CVS Pharmacy,pharmacies,node,3666137364
+-76.6188587,39.3125331,Midtown Pharmacy,pharmacies,node,3667902658
+-76.5900496,39.3007913,Walgreens,pharmacies,node,3688648581
+-79.3338791,38.6553347,Walgreens,pharmacies,node,3730051852
+-77.4530491,38.7390599,Harris Teeter,pharmacies,node,3748142411
+-77.4806508,39.0241155,CVS Pharmacy,pharmacies,node,3750686057
+-77.3386853,38.6475569,CVS Pharmacy,pharmacies,node,3751416538
+-76.6472672,39.1461853,Walmart Pharmacy,pharmacies,node,3755865234
+-76.6261241,39.1657781,MaxCare Pharmacy,pharmacies,node,3798861000
+-77.3493715,38.9520445,CVS Pharmacy,pharmacies,node,3889743686
+-77.4529704,38.7415174,CVS Pharmacy,pharmacies,node,3890948784
+-76.6273537,39.2832634,Midas Pharmacy,pharmacies,node,3944192756
+-77.1113772,39.0430355,CVS Pharmacy,pharmacies,node,3945112162
+-77.0395812,38.9038979,CVS Pharmacy,pharmacies,node,3992871348
+-77.1102773,38.8770633,Harris Teeter,pharmacies,node,3992871351
+-76.59013,39.293922,CVS Pharmacy,pharmacies,node,4004807522
+-78.2341101,39.6117036,Reeds Pharmacy,pharmacies,node,4020749805
+-77.0593692,38.8041246,CVS Pharmacy,pharmacies,node,4099839730
+-77.0431962,38.9048162,Tschiffely Pharmacy,pharmacies,node,4103638593
+-77.4739898,39.0444145,Giant Pharmacy,pharmacies,node,4110760296
+-77.0379912,38.9308249,Mt Pl Pharmacy,pharmacies,node,4111868792
+-77.2769983,39.2375706,Thrive Pharmacy,pharmacies,node,4134446337
+-77.0671135,39.3493091,Med One Pharmacy,pharmacies,node,4145650464
+-76.816875,39.250094,CVS Pharmacy,pharmacies,node,4168275890
+-76.4567962,38.2655047,,pharmacies,node,4223068487
+-76.4588946,38.2627997,CVS Pharmacy,pharmacies,node,4223068498
+-77.0067288,38.7770654,CVS Pharmacy,pharmacies,node,4301067590
+-76.4396592,39.037445,Cape Drugs,pharmacies,node,4354691227
+-77.3695586,38.9669548,Herndon Pharmacy and Medical Supply,pharmacies,node,4408256722
+-76.7588394,38.9851094,CVS Pharmacy,pharmacies,node,4425646725
+-77.1894379,39.1847444,CVS Pharmacy,pharmacies,node,4431190806
+-76.6816592,39.3269682,Walgreens,pharmacies,node,4486351427
+-77.1442381,39.3690311,CVS Pharmacy,pharmacies,node,4524159980
+-76.5178161,39.1213598,Zenleaf Dispensary,pharmacies,node,4537025008
+-78.8579081,38.4411441,CVS Pharmacy,pharmacies,node,4541336049
+-77.1100989,38.8128635,Walgreens,pharmacies,node,4554280521
+-78.7806495,39.6507598,Beckman's Pharmacy,pharmacies,node,4627224479
+-75.0535727,39.5709996,CVS Pharmacy,pharmacies,node,4635199726
+-76.9896985,38.8647187,Central Pharmacy,pharmacies,node,4640281772
+-77.2991683,38.8826577,CVS Pharmacy,pharmacies,node,4682147619
+-78.9019842,38.4335522,CVS Pharmacy,pharmacies,node,4746407305
+-77.0506325,38.8322521,Giant Pharmacy,pharmacies,node,4749496691
+-77.1558272,38.8356163,Harris Teeter Pharmacy,pharmacies,node,4787375704
+-77.2505732,39.1177036,Potomac Care Pharmacy,pharmacies,node,4820839374
+-77.1543563,38.8729246,Falls Church Pharmacy,pharmacies,node,4822032801
+-77.7916054,38.7301974,Giant Pharmacy,pharmacies,node,4831615928
+-77.0328487,38.90923,CVS Pharmacy,pharmacies,node,4867390342
+-76.6672131,39.4210953,Johns Hopkins Pharmacy,pharmacies,node,4972561254
+-76.5768473,39.2837382,Rite Aid,pharmacies,node,5000471033
+-75.5667019,38.5750008,Walgreens,pharmacies,node,5054334663
+-75.5660909,38.5729929,Express Pharmacy,pharmacies,node,5054405053
+-76.4411491,39.235866,Freedom Drugs,pharmacies,node,5067673728
+-77.0904674,38.9784953,CVS Pharmacy,pharmacies,node,5079924588
+-76.617652,39.2998298,Mt. Vernon Pharmacy,pharmacies,node,5084839165
+-77.0244697,38.8796244,CVS Pharmacy,pharmacies,node,5170081609
+-78.8355271,39.6246197,Walmart Pharmacy,pharmacies,node,5258181187
+-76.3080262,39.473009,Giant Food Pharmacy,pharmacies,node,5260550755
+-77.9761987,39.4530271,Rite Aid,pharmacies,node,5261758948
+-77.9859706,39.4465968,City Pharmacy,pharmacies,node,5264083937
+-77.9927424,39.4377722,CVS Pharmacy,pharmacies,node,5284059529
+-77.9559111,39.4774529,Moore's Pharmacy,pharmacies,node,5294525353
+-76.6608425,38.3045723,Rite Aid,pharmacies,node,5306475224
+-77.2587514,39.3840221,Med One New Market Pharmacy,pharmacies,node,5378325709
+-77.2124905,38.7148451,K&C Pharmacy,pharmacies,node,5390112866
+-78.7584406,39.3421412,Rite Aid,pharmacies,node,5430455371
+-77.5380009,38.2692877,CVS Pharmacy,pharmacies,node,5470199066
+-77.1224369,38.7853165,Walgreens,pharmacies,node,5534415764
+-76.9966568,38.8456737,Good Care Pharmacy,pharmacies,node,5538935289
+-76.5603246,38.943577,CVS Pharmacy,pharmacies,node,5577341874
+-76.5659748,39.2858744,Rx Pharmacy,pharmacies,node,5581413487
+-76.7375091,38.8114573,Giant,pharmacies,node,5604388277
+-77.4159851,39.4263127,CVS Pharmacy,pharmacies,node,5607991111
+-76.6585911,38.7181041,Harris Teeter Pharmacy,pharmacies,node,5693742485
+-76.9990757,38.9538285,Ramdass Pharmacy,pharmacies,node,5844104629
+-76.6089226,39.2869228,CVS Pharmacy,pharmacies,node,5897682945
+-77.0480006,39.0913713,CVS Pharmacy,pharmacies,node,5906360818
+-77.2702927,38.8985848,TYSONS Pharmacy,pharmacies,node,5961386531
+-76.3189104,39.4357331,Woodbridge Pharmacy,pharmacies,node,5963249506
+-76.331121,39.5016841,Plumtree Pharmacy,pharmacies,node,5965069685
+-76.6163365,39.3272238,CVS Pharmacy,pharmacies,node,5991856686
+-76.4784604,39.3075873,Riverview Pharmacy,pharmacies,node,6020103442
+-76.5500759,39.4001103,Joppa Road Pharmacy,pharmacies,node,6030841522
+-76.6220784,39.288813,University of Maryland Medical Center Pharmacy,pharmacies,node,6047739048
+-76.6192656,39.289486,Lexington Pharmacy,pharmacies,node,6047746165
+-77.1101053,38.8796972,CVS Pharmacy,pharmacies,node,6052771215
+-79.1240754,38.9945265,Judy's Drug Store,pharmacies,node,6095636359
+-76.5696113,39.3140553,Rite Aid,pharmacies,node,6125920552
+-76.5403343,39.3247095,Pharmacy,pharmacies,node,6125935082
+-76.5378146,39.3254786,Prime Care Pharmacy,pharmacies,node,6125936026
+-76.4864438,39.3500454,Fuller Pharmacy,pharmacies,node,6135345701
+-77.5214732,39.089164,Wegmans,pharmacies,node,6139376781
+-77.1556245,38.8704319,Oasis Pharmacy,pharmacies,node,6151900185
+-76.7326461,39.2716504,AME Pharmacy,pharmacies,node,6153440800
+-77.1571466,38.8709322,7 Corners Pharmacy,pharmacies,node,6157540420
+-76.782675,39.2094252,Midas Pharmacy,pharmacies,node,6204770840
+-77.5015222,39.0368181,Giant Pharmacy,pharmacies,node,6254815856
+-77.3503509,38.979555,Giant Pharmacy,pharmacies,node,6299346898
+-78.7784658,38.6298193,,pharmacies,node,6299529054
+-78.4739326,38.083112,CVS Pharmacy,pharmacies,node,6345783343
+-77.0581445,39.364237,King's Pharmacy,pharmacies,node,6362134549
+-77.0406895,38.8981788,CVS Pharmacy,pharmacies,node,6376387701
+-77.0418942,38.900696,Health Mart,pharmacies,node,6382047474
+-77.2527688,39.343767,Community Care Rx,pharmacies,node,6388427498
+-77.159957,39.0617259,Walgreens,pharmacies,node,6446607153
+-75.6805322,39.6852505,Rite Aid,pharmacies,node,6450126514
+-75.717463,39.4592605,Living Well Pharmacy,pharmacies,node,6477995120
+-78.7604002,39.651719,CVS Pharmacy,pharmacies,node,6481830235
+-75.5156083,39.1713287,Walgreens,pharmacies,node,6510198087
+-78.4349885,38.1314479,Walgreens,pharmacies,node,6514367136
+-77.4381294,39.4196122,Rite Aid,pharmacies,node,6584967552
+-76.3912111,39.4952678,Fallston Pharmacy,pharmacies,node,6600852823
+-77.411154,39.4393005,Walgreens,pharmacies,node,6606172501
+-76.3547536,39.5676617,Harford Pharmacy,pharmacies,node,6606964350
+-75.7130687,39.6064089,Walgreens,pharmacies,node,6615218883
+-77.6076537,38.7908338,Walgreens,pharmacies,node,6630443846
+-78.1333266,39.1840205,Walgreens,pharmacies,node,6636336605
+-78.1636962,39.1645659,Walgreens,pharmacies,node,6636336608
+-77.9578107,39.4748941,Walgreens,pharmacies,node,6638779642
+-75.5594139,38.4550716,Rite Aid,pharmacies,node,6653182574
+-76.5650537,38.940086,Walgreens,pharmacies,node,6659430672
+-75.0579032,38.4197825,Rite Aid,pharmacies,node,6666562698
+-75.1823965,38.6308713,Sussex Pharmcay,pharmacies,node,6677366666
+-76.7554263,39.2830494,Walgreens,pharmacies,node,6709200047
+-76.166175,39.5105278,Johnson Family Pharmacy,pharmacies,node,6711213892
+-76.5619264,39.3513235,CVS Pharmacy,pharmacies,node,6712498933
+-77.0308459,39.0413804,CVS Pharmacy,pharmacies,node,6712926389
+-76.774105,39.4156982,CVS Pharmacy,pharmacies,node,6740313293
+-76.20275,39.6410994,Darlington Pharmacy,pharmacies,node,6740373440
+-76.0609787,38.7765497,CVS Pharmacy,pharmacies,node,6741263733
+-76.9899589,38.8825414,CVS Pharmacy,pharmacies,node,6743355068
+-76.633877,39.4657367,Rite Aid,pharmacies,node,6748423118
+-76.8103959,39.0964199,CVS Pharmacy,pharmacies,node,6751733434
+-77.4294362,38.8395607,Walgreens,pharmacies,node,6765262491
+-75.5146096,39.1641714,CVS Pharmacy,pharmacies,node,6765422643
+-78.3393839,39.0043453,,pharmacies,node,6789369974
+-77.7029618,39.1370833,Walgreens,pharmacies,node,6796376089
+-75.1094231,39.7075365,Walgreens,pharmacies,node,6799947772
+-77.5265165,39.098016,Giant Pharmacy,pharmacies,node,6800614755
+-76.7925732,38.7844596,CVS Pharmacy,pharmacies,node,6810494445
+-75.4397692,38.9204921,Rite Aid,pharmacies,node,6816085296
+-76.6536082,39.2834703,Rite Aid,pharmacies,node,6829279787
+-76.4893903,39.391906,Walgreens,pharmacies,node,6836151062
+-76.4627736,39.4131383,Walgreens,pharmacies,node,6836151626
+-76.3280808,39.4325457,CVS Pharmacy,pharmacies,node,6836245062
+-76.7999934,39.369858,Walgreens,pharmacies,node,6896368664
+-76.184372,39.524105,Walgreens,pharmacies,node,6896389600
+-77.8126497,38.717672,CVS Pharmacy,pharmacies,node,6897242695
+-76.849383,39.0976538,CVS Pharmacy,pharmacies,node,6897340377
+-76.8483459,39.098875,Walgreens,pharmacies,node,6897340378
+-77.1937056,38.8295618,CVS Pharmacy,pharmacies,node,6903341818
+-76.8729181,38.6727,CVS Pharmacy,pharmacies,node,6923872131
+-75.1619156,38.3392179,,pharmacies,node,6923902191
+-77.6456657,38.8186214,Walmart Pharmacy,pharmacies,node,6923911816
+-77.0278689,38.8975523,Walgreens,pharmacies,node,6938304702
+-76.7908633,39.405657,Giant,pharmacies,node,6940263690
+-77.0013331,38.8202073,CVS Pharmacy,pharmacies,node,6940421019
+-76.4559099,39.3363434,Walgreens,pharmacies,node,6946057093
+-76.4578512,39.335529,CVS Pharmacy,pharmacies,node,6946057094
+-78.9741353,39.0526322,Judy's Drug Store,pharmacies,node,6954110194
+-75.5684403,39.6633587,Walgreens,pharmacies,node,6970525354
+-78.1753756,39.160031,The Wellness Pharmacy,pharmacies,node,6970621189
+-75.2062804,39.4613276,Walgreens,pharmacies,node,6974268112
+-78.8690494,38.4179402,CVS Pharmacy,pharmacies,node,6977524669
+-76.7895544,38.9000266,CVS Pharmacy,pharmacies,node,6979741709
+-76.7361668,39.3877166,The Pharmacia at Woodholme,pharmacies,node,6979887419
+-76.4771397,39.3964268,Rite Aid,pharmacies,node,6986418883
+-77.5081114,38.2222451,CVS Pharmacy,pharmacies,node,6986466254
+-76.677623,39.0398085,Rite Aid,pharmacies,node,6986489052
+-77.5355023,39.1159868,CVS Pharmacy,pharmacies,node,6996903500
+-77.5159634,38.2907343,Costco Pharmacy,pharmacies,node,7115025062
+-77.1608681,39.3652335,Walgreens,pharmacies,node,7161181835
+-77.0769297,39.0270781,Knowles Apothecary,pharmacies,node,7189400642
+-75.822162,39.5981559,Welcare Pharmacy,pharmacies,node,7217501855
+-75.9438455,39.6095116,North East Pharmacy,pharmacies,node,7221513476
+-76.6919896,39.2942473,,pharmacies,node,7237682707
+-76.4591061,39.3754949,White Marsh Pharmacy,pharmacies,node,7243478933
+-76.6619917,39.3528926,Lifebridge Pharmacy,pharmacies,node,7245366763
+-76.6573041,38.7238023,Giant,pharmacies,node,7313623567
+-76.5355795,38.6888429,CVS Pharmacy,pharmacies,node,7314121703
+-76.5910035,38.5410297,Walmart Pharmacy,pharmacies,node,7314163017
+-76.5902162,38.5456197,Safeway,pharmacies,node,7314163018
+-76.5938348,38.5543195,Giant Pharmacy,pharmacies,node,7314163019
+-77.1234263,38.8781342,Safeway,pharmacies,node,7351371785
+-78.7002351,38.0691774,Parkway Pharmacy,pharmacies,node,7399379329
+-76.4368156,38.3734114,Weis,pharmacies,node,7426596116
+-76.4430054,38.3730594,Walgreens,pharmacies,node,7426596117
+-76.4600226,38.3470294,CVS Pharmacy,pharmacies,node,7426621259
+-76.5632257,38.9430597,Giant,pharmacies,node,7459115237
+-77.1446783,38.8699868,Safeway,pharmacies,node,7526430506
+-76.930161,38.8736725,CVS Pharmacy,pharmacies,node,7545730406
+-77.2314095,38.8650648,District Pharmacy,pharmacies,node,7598205004
+-76.0865885,39.5438019,Citizens Pharmacy,pharmacies,node,7618145618
+-78.8965693,38.0726415,,pharmacies,node,7630118153
+-77.1371878,38.7731658,Giant Pharmacy,pharmacies,node,7734364484
+-77.5097272,38.789082,CVS Pharmacy,pharmacies,node,7934403242
+-78.4357497,38.2979676,,pharmacies,node,8007869962
+-77.5849153,38.2925888,CVS Pharmacy,pharmacies,node,8041273960
+-77.5673077,38.2907549,Walgreens,pharmacies,node,8041273974
+-76.7175823,39.274909,Walgreens,pharmacies,node,8097354629
+-76.6107085,39.3708652,Rite Aid,pharmacies,node,8150201849
+-78.928518,38.0826329,CVS Pharmacy,pharmacies,node,8150211794
+-76.6496755,38.3015543,Cyreene Pharmacy,pharmacies,node,8155128134
+-76.6358097,39.1329718,Walgreens,pharmacies,node,8195693503
+-76.9164735,38.6301137,CVS Pharmacy,pharmacies,node,8195776428
+-76.9216661,38.6241813,Walgreens,pharmacies,node,8195776429
+-77.7916304,38.7270803,CVS Pharmacy,pharmacies,node,8200325054
+-76.9747692,39.5668497,CVS Pharmacy,pharmacies,node,8231421033
+-76.977254,38.2540489,Walgreens,pharmacies,node,8233779652
+-77.3815371,38.9684843,Walgreens,pharmacies,node,8246305120
+-76.9830768,38.538957,Walgreens,pharmacies,node,8282363809
+-76.9833838,38.5401386,CVS Pharmacy,pharmacies,node,8282363810
+-76.9845426,38.549122,Rite Aid,pharmacies,node,8282363811
+-77.6380214,38.8447483,Giant Pharmacy,pharmacies,node,8385215393
+-78.4971836,38.6617436,CVS Pharmacy,pharmacies,node,8388751974
+-77.1854088,38.8133309,Giant Pharmacy,pharmacies,node,8405442312
+-75.1184337,38.3383449,CVS Pharmacy,pharmacies,node,8421136078
+-75.1175887,38.3383131,Rite Aid,pharmacies,node,8421136079
+-77.0908132,38.8282328,Walgreens,pharmacies,node,8426629599
+-76.6088123,39.3644568,The Pharmacy,pharmacies,node,8429773510
+-77.849914,38.0814239,,pharmacies,node,8483315359
+-76.8368712,39.2423781,Crossroads Pharmacy,pharmacies,node,8526095294
+-77.5617921,39.0802157,Walmart Pharmacy,pharmacies,node,8532309089
+-77.5217119,39.0434257,Harris Teeter,pharmacies,node,8532309090
+-77.4956489,39.0808861,Harris Teeter,pharmacies,node,8532309091
+-78.3413188,37.9050118,Jefferson Pharmacy,pharmacies,node,8565489188
+-77.2062788,39.2898464,CVS Pharmacy,pharmacies,node,8633251633
+-75.557824,39.6875662,CVS Pharmacy,pharmacies,node,8707949461
+-75.6145833,39.6545298,CareASAP,pharmacies,node,8722796528
+-77.049385,38.859186,CVS Pharmacy,pharmacies,node,8958078222
+-76.9699421,39.0037455,Walgreens,pharmacies,node,8964312871
+-77.4454381,39.4153389,Hill Crest Pharmacy Compounding,pharmacies,node,9044369664
+-76.9366349,39.0483976,CVS Pharmacy,pharmacies,node,9107899188
+-76.5059824,39.0293307,Arnold Pharmacy,pharmacies,node,9109583536
+-75.1637484,38.7510982,Walgreens,pharmacies,node,9122274947
+-76.566822,38.9312381,Walgreens,pharmacies,node,9130853514
+-76.5045732,39.3379321,Rite Aid,pharmacies,node,9143446521
+-75.7237346,39.6617144,Rite Aid,pharmacies,node,9161656235
+-75.1671529,38.7521598,Cape Pharmacy,pharmacies,node,9197433980
+-77.9738368,38.4802826,Walmart Pharmacy,pharmacies,node,9208656125
+-75.671172,39.6668701,Walgreens,pharmacies,node,9212388418
+-78.9337363,38.0678501,Walmart Pharmacy,pharmacies,node,9251129770
+-77.1857117,39.1136858,CVS Pharmacy,pharmacies,node,9253740738
+-76.618274,39.3020471,"Community, A Walgreens Pharmacy",pharmacies,node,9297829473
+-77.8272518,39.2998221,Walmart Pharmacy,pharmacies,node,9328582201
+-76.7268058,39.3778655,Walgreens,pharmacies,node,9336231488
+-76.6592434,38.7184019,CVS Pharmacy,pharmacies,node,9344930964
+-77.1952281,38.864805,Giant Pharmacy,pharmacies,node,9354087701
+-76.8396017,39.2200367,Walgreens,pharmacies,node,9364660034
+-77.4873425,39.0538607,Walgreens,pharmacies,node,9383869273
+-78.1495908,39.0841301,Walmart Pharmacy,pharmacies,node,9387065358
+-76.9829464,38.5510456,Walmart Pharmacy,pharmacies,node,9393654312
+-77.14178,38.8680596,CVS Pharmacy,pharmacies,node,9408773655
+-76.8447524,38.9029179,,pharmacies,node,9416702888
+-77.2397501,38.8644975,Hann's Pharmacy,pharmacies,node,9421209817
+-76.518143,39.1198061,CVS Pharmacy,pharmacies,node,9458846142
+-78.1363572,39.2217425,CVS Pharmacy,pharmacies,node,9494144926
+-76.9033211,38.9603676,East Pines Pharmacy,pharmacies,node,9524298887
+-76.939863,38.9624997,Walgreens,pharmacies,node,9526037830
+-76.6495621,39.3684414,The Pharmacia,pharmacies,node,9604780959
+-76.6152582,39.216355,Walgreens,pharmacies,node,9647394256
+-76.6151088,39.2150644,Rite Aid,pharmacies,node,9647394257
+-76.6083727,39.4095061,Walgreens,pharmacies,node,9657157590
+-76.9864994,38.9875582,Walgreens,pharmacies,node,9688737224
+-76.986061,38.9895841,CVS Pharmacy,pharmacies,node,9688737256
+-76.9881648,38.9912541,Langley Park Pharmacy and Medical Supplies,pharmacies,node,9688737257
+-78.4415379,38.0209564,UVA Pantops Pharmacy,pharmacies,node,9856282161
+-76.6935302,39.2477313,Rite Aid,pharmacies,node,9857212044
+-76.6029093,39.3020809,Rite Aid,pharmacies,node,9857244271
+-76.6665147,39.339182,Rite Aid,pharmacies,node,9857256996
+-77.5138537,38.3059256,Walmart Pharmacy,pharmacies,node,9865054331
+-78.1675069,39.1539169,CVS Pharmacy,pharmacies,node,9879542366
+-77.1060001,38.8970336,Safeway,pharmacies,node,9893535845
+-77.4061707,38.9084295,Giant Pharmacy,pharmacies,node,9893939540
+-77.0617532,38.7762911,CVS Pharmacy,pharmacies,node,9904572277
+-76.6095872,39.32205,Waverly Professional Pharmacy,pharmacies,node,9917379181
+-75.8244677,38.8744215,Walgreens,pharmacies,node,9920053644
+-75.8220755,38.8747069,Walmart Pharmacy,pharmacies,node,9920053645
+-77.4277878,38.4754898,Dan's Wellness Pharmacy,pharmacies,node,9936195357
+-76.0610772,38.7731408,Walgreens,pharmacies,node,9943988616
+-75.5220601,39.1427069,Walgreens,pharmacies,node,9966987766
+-77.465951,39.4209629,CVS Pharmacy,pharmacies,node,9996189996
+-78.7988784,38.606095,Broadway Drug Center,pharmacies,node,10069311132
+-76.5230197,38.9700027,Safeway,pharmacies,node,10147147482
+-76.6097886,39.3630525,Belvedere Pharmacy,pharmacies,node,10147269518
+-76.8857781,39.210517,Columbia Hickory Pharmacy,pharmacies,node,10184672617
+-76.59935,38.5576968,Walgreens,pharmacies,node,10186957631
+-76.7191814,39.0656457,,pharmacies,node,10203796639
+-77.7020844,39.6630199,CVS Pharmacy,pharmacies,node,10269009002
+-77.0871818,38.861814,Joule Wellness Pharmacy,pharmacies,node,10544393360
+-77.0843199,38.8639626,Giant Pharmacy,pharmacies,node,10566017066
+-77.0750011,39.0275528,Safeway,pharmacies,node,10702320197
+-76.9259691,38.7930702,CVS Pharmacy,pharmacies,node,10723176898
+-77.1043576,38.9661821,,pharmacies,node,10724627434
+-76.7767452,37.9634024,Walgreens,pharmacies,node,10989397381
+-76.5231555,39.1239923,Mike's Pharmacy,pharmacies,node,10992625339
+-78.8367796,39.6248376,Walmart Pharmacy,pharmacies,node,11121023661
+-76.3727006,39.5600178,Rite Aid Pharmacy,pharmacies,node,11155435821
+-76.3534406,39.5700198,Walgreens Pharmacy,pharmacies,node,11155435822
+-76.3705183,39.560592,CVS Pharmacy,pharmacies,node,11158171548
+-78.2571261,38.3805842,Madison Drugs,pharmacies,node,11160582745
+-78.1123769,38.2445837,Orange Pharmacy,pharmacies,node,11165263059
+-76.9880686,38.86745,Grubb's SE Pharmacy & Mini-mart,pharmacies,node,11198005487
+-76.9325898,38.992628,CVS Pharmacy,pharmacies,node,11203826905
+-77.3389095,38.9486478,CVS Pharmacy,pharmacies,node,11206042337
+-79.2280089,37.9256306,,pharmacies,node,11379560450
+-78.237997,39.6075641,Walgreens,pharmacies,node,11379810984
+-76.8867579,39.6651194,,pharmacies,node,11380682499
+-78.4983326,38.0321583,UVA Pharmacy,pharmacies,node,11401514757
+-78.6521481,38.4072786,Walgreens,pharmacies,node,11403359959
+-77.2029516,39.118859,CVS Pharmacy,pharmacies,node,11445776965
+-77.0055465,38.905908,Harris Teeter Pharmacy,pharmacies,node,11511970365
+-77.1836553,39.1188607,Vashan Compounding Pharmacy,pharmacies,node,11601587696
+-75.6840715,39.6856736,Walgreens,pharmacies,node,11663418637
+-78.9906206,39.4291525,,pharmacies,node,11693575971
+-76.6327913,39.1410696,Jai Pharmacy,pharmacies,node,11851302812
+-76.6240392,39.1651164,The Medicine Shoppe,pharmacies,node,11872632867
+-76.6322727,39.1505098,LifeLine Pharmacy,pharmacies,node,11877244865
+-76.517305,39.154621,Mike's Pharmacy,pharmacies,node,11905540267
+-77.1739574,38.8836168,Harris Teeter Pharmacy,pharmacies,node,11952620969
+-76.4960987,39.2688991,Weis,pharmacies,node,12042321665
+-75.8189576,39.5986327,Walgreens,pharmacies,node,12077800626
+-76.6247349,39.4433052,Giant Pharmacy,pharmacies,node,12120272538
+-77.2484708,39.1988392,CVS Pharmacy,pharmacies,node,12120941924
+-78.14542,39.1866067,CVS Pharmacy,pharmacies,node,12132607138
+-75.1138328,38.3367289,Hi Tide Dispensary,pharmacies,node,12143437801
+-78.1749685,39.2076167,CVS Pharmacy,pharmacies,node,12144401758
+-77.0512082,38.92389,CVS Pharmacy,pharmacies,node,12173496881
+-76.9970797,38.885339,Capitol Hill Pharmacy,pharmacies,node,12209481094
+-77.0694329,38.9554435,CVS Pharmacy,pharmacies,node,12214437528
+-77.0635022,38.9450084,CVS Pharmacy,pharmacies,node,12232031160
+-77.6185929,38.7953745,CVS Pharmacy,pharmacies,node,12241872002
+-77.0992921,38.9786743,Walgreens,pharmacies,node,12333458361
+-77.0409796,38.9174347,CVS Pharmacy,pharmacies,node,12422932692
+-77.3491443,38.9526112,CVS Pharmacy,pharmacies,node,12496791302
+-76.8455815,39.1219533,All Saints Pharmacy,pharmacies,node,12550253871
+-76.7171203,39.1007902,,pharmacies,node,12555080571
+-77.0954642,39.0038269,,pharmacies,node,12646066995
+-76.6053439,39.2370775,People's Care Pharmacy,pharmacies,node,12666955531
+-76.5934598,39.2982514,Johns Hopkins Outpatient Pharmacy,pharmacies,node,12670210109
+-76.5061264,39.2776522,Giant Pharmacy,pharmacies,node,12673035175
+-76.5045643,39.2741418,Merritt Star Pharmacy,pharmacies,node,12673035176
+-76.5169384,39.2732037,Weis Pharmacy,pharmacies,node,12673035180
+-77.0093125,38.910147,North Capitol Pharmacy,pharmacies,node,12688884453
+-76.6767667,39.3480608,Park Health Pharmacy,pharmacies,node,12728650854
+-76.5365616,39.2818282,Bayview Pharmacy,pharmacies,node,12735645171
+-76.5639527,39.2866275,Highlandtown Pharmacy,pharmacies,node,12830234873
+-76.5687313,39.2866572,Glory Pharmacy,pharmacies,node,12832755843
+-76.5629769,39.2870219,Walgreens,pharmacies,node,12878256923
+-75.5567204,39.6863475,,pharmacies,node,12882295244
+-76.5645119,39.2750291,Harris Teeter Pharmacy,pharmacies,node,12900707775
+-76.5665058,39.2751901,CVS Pharmacy,pharmacies,node,12900707781
+-75.5437239,39.1592677,Walgreens,pharmacies,node,12922588010
+-76.6284652,39.4395447,Walgreens,pharmacies,node,12966416174
+-76.4459865,39.5311515,Walgreens,pharmacies,node,12966422841
+-77.4704281,38.7399483,Walgreens,pharmacies,node,12966576947
+-76.8387558,39.0639297,Walgreens,pharmacies,node,12967063407
+-76.2794186,38.973348,Walgreens,pharmacies,node,12968906760
+-76.3711502,39.4240309,Walgreens,pharmacies,node,12969157884
+-77.410397,39.4174391,Whitesell Pharmacy,pharmacies,node,12981128234
+-76.3950179,39.4924318,CVS Pharmacy,pharmacies,node,12990047851
+-76.3129315,39.5473977,Walgreens,pharmacies,node,12996087400
+-75.5403336,37.9446486,Atlantic Community Pharmacy,pharmacies,node,13030574942
+-77.0871074,38.9628958,Brookville Pharmacy,pharmacies,node,13074917323
+-77.2610443,39.1713278,Ultracare Pharmacy,pharmacies,node,13108826936
+-77.0571667,38.9343966,CVS Pharmacy,pharmacies,node,13165316485
+-76.7742082,38.497102,Tidewater Pharmacy,pharmacies,node,13165868807
+-77.714771,39.6399595,Express Pharmacy,pharmacies,node,13172420018
+-77.7189278,39.6848559,Martin's Pharmacy,pharmacies,node,13173895441
