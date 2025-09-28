@@ -51,8 +51,7 @@ python3 -m http.server 8000
 ---
 
 ## Using the App
-
-### Link for the App; https://maryland-health-navigator-ef8a2c28.base44.app
+### Link for the App: https://maryland-health-navigator-ef8a2c28.base44.app
 1. Search for an address in Maryland.  
 2. Pick a radius (2, 5, or 10 miles).  
 3. The app shows facilities within that range both on the map and in the list.  
